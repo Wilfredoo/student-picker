@@ -3,6 +3,13 @@ button {
   width: 200px;
   height: 100px;
   font-size: 20px;
+  background-color: green;
+  color: wheat;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: green;
  background-color: darkgrey;
   color: white;
   color: red;
