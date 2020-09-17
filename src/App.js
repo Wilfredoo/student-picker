@@ -36,6 +36,7 @@ function App() {
 
   return (
     <div className="App">
+      <h3>Sofia was here</h3>
       <h1>Student Picker</h1>
       <h2>A better way to pick students</h2>
       
@@ -45,7 +46,7 @@ function App() {
           Click Here to Pick Someone!
         </button>
       )}
-      <h3>Sofia was here</h3>
+      
       {student && <p className="student">The lucky one is: {student}</p>}
       {ranOut && (
         <>
