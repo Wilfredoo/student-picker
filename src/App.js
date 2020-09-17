@@ -38,12 +38,14 @@ function App() {
     <div className="App">
       <h1>Student Picker</h1>
       <h2>A better way to pick students</h2>
+      
       <img src="https://w7.pngwing.com/pngs/380/764/png-transparent-paper-box-computer-icons-symbol-random-icons-miscellaneous-angle-text-thumbnail.png" />
       {!ranOut && (
         <button onClick={() => pickRandomStudent()}>
           Click Here to Pick Someone!
         </button>
       )}
+      <h3>Sofia was here</h3>
       {student && <p className="student">The lucky one is: {student}</p>}
       {ranOut && (
         <>
