@@ -5,14 +5,14 @@ import "./App.css";
     "Inna",
     "Sebastian",
     "Zsofia T.",
-    // "Fakhira",
-    // "Annika",
-    // "Said",
-    // "Hamid",
-    // "Omar",
-    // "Guilherme",
-    // "Sofia D.",
-    // "Angel",
+    "Fakhira",
+    "Annika",
+    "Said",
+    "Hamid",
+    "Omar",
+    "Guilherme",
+    "Sofia D.",
+    "Angel",
   ];
 
 function App() {
